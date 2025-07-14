@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import {underline} from "next/dist/lib/picocolors";
 
 const API_URL = "https://slack-wordle-api.vercel.app/api";
 
