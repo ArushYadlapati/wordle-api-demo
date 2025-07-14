@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wordle API Demo
+
+This is a demo frontend for the Wordle API that I made, built with Next.js and hosted on Vercel. 
+You can see the next 20 Wordle answers, as well as check if a word is valid.
+
 
 ## Getting Started
 
